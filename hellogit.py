@@ -1,1 +1,1 @@
-print("hola git, este es el primer commit, estoy aprendiendo a resetear")
+print("versión final")
